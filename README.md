@@ -22,12 +22,7 @@ To use the `cMatrix` class in your Java project, follow these steps:
      ```java
      cMatrix matrix = new cMatrix();
 
-
-
-
-
-
-Contributing
+## Contributing
 If you would like to contribute to this project, please follow these guidelines:
 
 - Fork the repository.
@@ -35,5 +30,5 @@ If you would like to contribute to this project, please follow these guidelines:
 - Make your changes and commit them.
 - Create a pull request explaining your changes.
 
-  Contact Information
+  ## Contact Information
 If you have any questions or need further assistance, feel free to contact me at alperenahmetpolat@gmail.com
