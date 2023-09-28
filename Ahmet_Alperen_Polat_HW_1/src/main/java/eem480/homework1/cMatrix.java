@@ -146,21 +146,7 @@ import java.util.Random;
         
         m4 = m2.multiplyMatrices(m3);
         
-        //m4.printMatrixWithPrime();*/ 
-        
-        
-        
-        /*public static void main(String[] args) {
-// TODO code application logic here
-cMatrix m2 = new cMatrix(2000,2000);
-m2.AssignRandom();
-cMatrix m3 = new cMatrix(2000,2000);
-m3.AssignRandom();
-cMatrix m4 = new cMatrix();
-m4 = m2.multiplyMatrices(m3); 
        
-       }
-       */
 }
    }
      
