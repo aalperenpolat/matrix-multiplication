@@ -23,34 +23,7 @@ To use the `cMatrix` class in your Java project, follow these steps:
      cMatrix matrix = new cMatrix();
 
 
-## Assign Random Values to the matrix
 
-        ```java
-              matrix.AssignRandom();
-
-## Print the matrix to the console
-        ```java
-              matrix.printMatrix();
-
-## Print the matrix with prime numbers marked
-    ```java
-    matrix.printMatrixWithPrime();
-
-##Multiply two matrices
-    
-    ```java
-    cMatrix matrix1 = new cMatrix(3, 4); // Example: Create a 3x4 matrix
-    cMatrix matrix2 = new cMatrix(4, 2); // Example: Create a 4x2 matrix
-
-  // Fill matrices with values (if needed)
-  
-     ```java
-    cMatrix resultMatrix = matrix1.multiplyMatrices(matrix2);
-
-  // Print the result matrix
-    
-     ```java
-    resultMatrix.printMatrix();
 
 
 
