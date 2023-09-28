@@ -30,5 +30,5 @@ If you would like to contribute to this project, please follow these guidelines:
 - Make your changes and commit them.
 - Create a pull request explaining your changes.
 
-  ## Contact Information
+## Contact Information
 If you have any questions or need further assistance, feel free to contact me at alperenahmetpolat@gmail.com
